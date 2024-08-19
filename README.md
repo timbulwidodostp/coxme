@@ -1,6 +1,8 @@
 # coxme
 Fit a mixed effects Cox model Use coxme With (In) R Software
 
+https://www.youtube.com/watch?v=Sl3guR_sICA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
